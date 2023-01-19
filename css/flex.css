@@ -1,0 +1,59 @@
+body {
+    background-color: aqua;
+    margin: 0;
+
+}
+
+.container {
+    background-color: red;
+    height: 100vh;
+}
+
+.def {
+    height: 10vh;
+}
+
+#navbar {
+    background-color: greenyellow;
+}
+
+#main {
+    background-color: blueviolet;
+    height: 80vh;
+    display: flex;
+}
+
+#footer {
+    background-color: coral;
+    display: flex;
+}
+
+#main-l {
+    background-color: darkblue;
+    width: 20vw;
+}
+
+#main-r {
+    background-color: darkgreen;
+    width: 80vw;
+}
+
+.footer-def{
+    width: 25vw;
+}
+
+#footer-1 {
+    background-color: deeppink;
+}
+
+#footer-2 {
+    background-color: bisque;
+}
+
+#footer-3 {
+    background-color: brown;
+}
+
+#footer-4 {
+    background-color: dimgray;
+}
